@@ -1,3 +1,7 @@
 [submodule "package/devries/luci-theme-argon"]
 	path = package/devries/luci-theme-argon
 	url = https://github.com/jerrykuku/luci-theme-argon.git
+[submodule "package/mytools/luci-app-openclash"]
+	path = package/mytools/luci-app-openclash
+	url = https://github.com/vernesong/OpenClash.git
+	branch = master
